@@ -7,3 +7,5 @@ After you create and save a profile, I recommend sending a test email with it fr
 
 Options for setting up a new profile:
 ![](../gitbook/images/newprofile.png)
+
+Side note: I personally love [Mailcow](https://mailcow.email/) for managing phishing inboxes and sending phishing emails. I've created a setup guide [here](https://tw1sm.github.io/2022-01-25-mailcow/), if you're interested.
