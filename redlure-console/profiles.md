@@ -5,7 +5,7 @@ Profiles can be configured to use self-hosted mail infrastructure ([Mailcow](htt
 
 After you create and save a profile, I recommend sending a test email with it from the Profiles page to make sure everything is setup correctly. (Test email is a fake dinner invite.) [mail-tester.com](https://mail-tester.com) is a great resource you can send a test to in order to determine if your SPF, DMARC and DKIM are working as intended.
 
+Side note: I personally love [Mailcow](https://mailcow.email/) for managing phishing inboxes and sending phishing emails. I've created a setup guide [here](https://tw1sm.github.io/2022-01-25-mailcow/), if you're interested.
+
 Options for setting up a new profile:
 ![](../gitbook/images/newprofile.png)
-
-Side note: I personally love [Mailcow](https://mailcow.email/) for managing phishing inboxes and sending phishing emails. I've created a setup guide [here](https://tw1sm.github.io/2022-01-25-mailcow/), if you're interested.
